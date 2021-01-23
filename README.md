@@ -1,1 +1,1 @@
-# investment_lab
+# Investment Lab
