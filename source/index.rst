@@ -10,6 +10,8 @@ Welcome to Investment Lab's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   yzyxtzdyk/index.md
+
 
 
 Indices and tables
