@@ -21,7 +21,7 @@ from recommonmark.parser import CommonMarkParser
 # -- Project information -----------------------------------------------------
 
 project = u'Investment Lab'
-copyright = u'2021, ahfywff'
+copyright = u'2022, ahfywff'
 author = u'ahfywff'
 
 # The short X.Y version
